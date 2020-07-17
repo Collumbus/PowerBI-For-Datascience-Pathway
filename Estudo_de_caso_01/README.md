@@ -40,4 +40,6 @@ automóveis deste fabricante por ano e por estado.
 
 Seu trabalho é fazer isso acontecer!
 
-![Dashboard](/dash_sc01_01.png)
+## Dashboard gerado:
+
+![Dashboard](dash_sc01_01.png)
