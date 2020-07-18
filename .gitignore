@@ -162,7 +162,7 @@ ipython_config.py
 
 ### Customs
 credentials.py
-
+testes/
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
